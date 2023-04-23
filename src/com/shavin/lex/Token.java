@@ -1,6 +1,6 @@
 package com.shavin.lex;
 
-class Token {
+public class Token {
     final TokenType tokenType;
     final String lexeme;
     final Object literal;
